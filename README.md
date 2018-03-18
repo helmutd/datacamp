@@ -9,3 +9,5 @@ Projects made after having finished the 'Data Scientist with Python' track at Da
 * [Dr. Semmelweis and the discovery of handwashing](https://github.com/helmutd/datacamp/blob/master/Dr%20Semmelweis%20and%20the%20discovery%20of%20handwashing.ipynb)
 	* Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. 
 
+* [Exploring the evolution of Linux](https://github.com/helmutd/datacamp/blob/master/Exploring%20the%20evolution%20of%20Linux.ipynb)
+	* Find out about the development of the Linux operating system by exploring its Git repository history. 
