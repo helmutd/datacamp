@@ -11,3 +11,6 @@ Projects made after having finished the 'Data Scientist with Python' track at Da
 
 * [Exploring the evolution of Linux](https://github.com/helmutd/datacamp/blob/master/Exploring%20the%20evolution%20of%20Linux.ipynb)
 	* Find out about the development of the Linux operating system by exploring its Git repository history. 
+	
+* [Word frequency in Moby Dick](https://github.com/helmutd/datacamp/blob/master/Word%20frequency%20in%20Moby%20Dick.ipynb)
+	* What are the most frequent words in Herman Melville's novel Moby Dick and how often do they occur? 
