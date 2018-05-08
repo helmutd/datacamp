@@ -15,5 +15,5 @@ Projects made after having finished the 'Data Scientist with Python' track at Da
 * [Word frequency in Moby Dick](https://github.com/helmutd/datacamp/blob/master/Word%20frequency%20in%20Moby%20Dick.ipynb)
 	* What are the most frequent words in Herman Melville's novel Moby Dick and how often do they occur? 
 	
-* [Recreating John Snow's Ghost Map](https://github.com/helmutd/datacamp/blob/master/Recreating%20John%20Snow%20Ghost%20Map.ipynb)
+* [Recreating John Snow's Ghost Map](https://github.com/helmutd/datacamp/blob/master/Recreating%20John%20Snow's%20Ghost%20Map.ipynb)
 	* Recreate John Snow's famous map of the 1854 cholera outbreak in London 
