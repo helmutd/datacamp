@@ -18,5 +18,5 @@ Projects made after having finished the 'Data Scientist with Python' track at Da
 * [Recreating John Snow's Ghost Map](https://github.com/helmutd/datacamp/blob/master/Recreating%20John%20Snow's%20Ghost%20Map.ipynb)
 	* Recreate John Snow's famous map of the 1854 cholera outbreak in London 
 
-* [Bad passwords and the NIST guidelines](https://github.com/helmutd/datacamp/blob/master/Bad%20passwords%20and%20NIST%20guidelines.ipynb)
+* [Bad passwords and the NIST guidelines](https://github.com/helmutd/datacamp/blob/master/Bad%20passwords%20and%20the%20NIST%20guidelines.ipynb)
 	* Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines 
